@@ -66,12 +66,3 @@ Register Number :212223230207
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
-
-
-
-
-
-
-
-## RESULT
-The program for implementing image maps using HTML is executed successfully.
