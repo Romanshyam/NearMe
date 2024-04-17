@@ -58,7 +58,13 @@ Register Number :212223230207
 </html>
 ```
 ## OUTPUT:
-https://github.com/KesavDeepak/NearMe/blob/main/apollo.png
+![map](https://github.com/Romanshyam/NearMe/assets/123962992/7b86f224-9f47-45ca-aad1-55bfa9b9a1d1)
+![apollo](https://github.com/Romanshyam/NearMe/assets/123962992/31fe6171-c6a6-48d2-a915-dcb2375b4900)
+![d2](https://github.com/Romanshyam/NearMe/assets/123962992/04445276-214f-46d0-b79c-743f263d279b)
+![dmi](https://github.com/Romanshyam/NearMe/assets/123962992/e6f38230-c920-4c73-9f4a-ec58fd14211e)
+![lakeview](https://github.com/Romanshyam/NearMe/assets/123962992/4452d76c-348c-492b-93e3-aa7f954c936f)
+![sree sastha](https://github.com/Romanshyam/NearMe/assets/123962992/03520d78-e055-43d6-825c-1072616cb3dd)
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
 
