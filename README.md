@@ -57,13 +57,8 @@ Register Number :212223230207
 </body>
 </html>
 ```
-## OUTPUThttps:
-//github.com/KesavDeepak/NearMe/blob/main/apollo.png
-![alt text](ctm.png)
-![alt text](apollo.png)
-![alt text](<sree sastha.png>)
-![alt text](lakeview.png)
-![alt text](dmi.png)
+## OUTPUT:
+https://github.com/KesavDeepak/NearMe/blob/main/apollo.png
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
 
